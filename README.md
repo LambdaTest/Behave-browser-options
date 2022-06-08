@@ -21,7 +21,7 @@ capabilities = {
 
 * For more information you can refer to this LambdaTest [blog](https://www.lambdatest.com/blog/desired-capabilities-in-selenium-testing/?utm_source=github&utm_medium=repo&utm_campaign=Behave-browser-options).
 
-## Step 4: Run your test
+## Run your test
 
 ### Running tests through local (linux/unix)
 ```bash
